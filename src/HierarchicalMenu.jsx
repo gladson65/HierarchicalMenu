@@ -1,10 +1,12 @@
+import MenuItem from "./MenuItem";
+
 
 
 function HierarchicalMenu() {
 
     return (
         <>
-        
+
         </>
     )
 }
